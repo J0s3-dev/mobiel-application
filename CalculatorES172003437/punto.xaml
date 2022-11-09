@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CalculatorES172003437.punto">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center"
+                     HorizontalOptions="Center">
+
+            <Frame BackgroundColor="CornflowerBlue" Padding="5" CornerRadius="0.2" HorizontalOptions="Center">
+                <Label Text="Bienvenido a la Calculadora Forma Punto-Pendiente" TextColor="Black" FontSize="24" FontFamily="Arial Narrow"/>
+            </Frame>
+            <Image WidthRequest="30" HeightRequest="50" Source="pendientejpg.jpg"/>
+            <Label Text="Ingresa los Valores de la formula"/>
+            <Entry Placeholder="X1" x:Name="x1" Keyboard="Numeric" HorizontalTextAlignment="Center" FontSize="10"/>
+            <Entry Placeholder="Y1" x:Name="y1" Keyboard="Numeric" HorizontalTextAlignment="Center" FontSize="10"/>
+            <Entry Placeholder="M" x:Name="m" Keyboard="Numeric" HorizontalTextAlignment="Center" FontSize="10"/>
+            <Entry Placeholder="Simplificado_Y1" x:Name="opc1" IsEnabled="False"/>
+            <Entry Placeholder="Simplificado_X1" x:Name="opc2" IsEnabled="False"/>
+            <Entry Placeholder="Simplificado_m" x:Name="opc4"  IsEnabled="False"/>
+            <Entry Placeholder="Simplificado_X1+Y1" x:Name="opc3" HorizontalTextAlignment="Center" IsEnabled="False"/>
+            <Button Text="Calcular" Clicked="Button_Clicked1" CornerRadius="15" BorderColor="DarkGoldenrod" BackgroundColor="SlateGray"/>
+
+
+            <Button Text="Volver" TextColor="Aquamarine" Clicked="regreso"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

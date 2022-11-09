@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CalculatorES172003437.Ordenadaorigen">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center"
+                     HorizontalOptions="Center"
+                     Background="gray">
+
+            <Frame BackgroundColor="#3269F2" Padding="18" CornerRadius="0.2">
+                <Label Text="Bienvenido Calculadora de Forma Ordenada al Origen" FontSize="24" TextColor="DarkBlue"/>
+            </Frame>
+            <Image WidthRequest="50" HeightRequest="50" Source="ordenadas.png"/> 
+            <Label Text="Ingrese la Formula para calcular la pendiente:" FontFamily="Arial Narrow" FontSize="16" TextColor="Black" HorizontalTextAlignment="Center"/>
+            <Entry Placeholder="Digite valor de Y" x:Name="y" Keyboard="Numeric" HorizontalTextAlignment="Center"/>
+            <Entry Placeholder="Digite valor de X" x:Name="x" Keyboard="Numeric" HorizontalTextAlignment="Center"/>
+            <Entry Placeholder="Digite valor de B" x:Name="b" Keyboard="Numeric" HorizontalTextAlignment="Center"/>
+            <Entry Placeholder="Resultado" x:Name="resultado" IsEnabled="False" HorizontalTextAlignment="Center" TextColor="NavajoWhite"/>
+            <Button Text="Calcular" Clicked="Button_Clicked" CornerRadius="15" BorderColor="DarkGoldenrod" BackgroundColor="SlateGray"/>
+
+
+
+            <Button Text="Volver" TextColor="Aquamarine" Clicked="volver"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

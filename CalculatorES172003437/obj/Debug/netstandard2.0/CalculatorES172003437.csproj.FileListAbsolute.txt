@@ -1,0 +1,17 @@
+C:\Users\Jose\source\repos\CalculatorES172003437\CalculatorES172003437\CalculatorES172003437\bin\Debug\netstandard2.0\CalculatorES172003437.deps.json
+C:\Users\Jose\source\repos\CalculatorES172003437\CalculatorES172003437\CalculatorES172003437\bin\Debug\netstandard2.0\CalculatorES172003437.dll
+C:\Users\Jose\source\repos\CalculatorES172003437\CalculatorES172003437\CalculatorES172003437\bin\Debug\netstandard2.0\ref\CalculatorES172003437.dll
+C:\Users\Jose\source\repos\CalculatorES172003437\CalculatorES172003437\CalculatorES172003437\bin\Debug\netstandard2.0\CalculatorES172003437.pdb
+C:\Users\Jose\source\repos\CalculatorES172003437\CalculatorES172003437\CalculatorES172003437\obj\Debug\netstandard2.0\CalculatorES172003437.csproj.AssemblyReference.cache
+C:\Users\Jose\source\repos\CalculatorES172003437\CalculatorES172003437\CalculatorES172003437\obj\Debug\netstandard2.0\CalculatorES172003437.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\source\repos\CalculatorES172003437\CalculatorES172003437\CalculatorES172003437\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Jose\source\repos\CalculatorES172003437\CalculatorES172003437\CalculatorES172003437\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Jose\source\repos\CalculatorES172003437\CalculatorES172003437\CalculatorES172003437\obj\Debug\netstandard2.0\Ordenadaorigen.xaml.g.cs
+C:\Users\Jose\source\repos\CalculatorES172003437\CalculatorES172003437\CalculatorES172003437\obj\Debug\netstandard2.0\CalculatorES172003437.AssemblyInfoInputs.cache
+C:\Users\Jose\source\repos\CalculatorES172003437\CalculatorES172003437\CalculatorES172003437\obj\Debug\netstandard2.0\CalculatorES172003437.AssemblyInfo.cs
+C:\Users\Jose\source\repos\CalculatorES172003437\CalculatorES172003437\CalculatorES172003437\obj\Debug\netstandard2.0\CalculatorES172003437.csproj.CoreCompileInputs.cache
+C:\Users\Jose\source\repos\CalculatorES172003437\CalculatorES172003437\CalculatorES172003437\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Jose\source\repos\CalculatorES172003437\CalculatorES172003437\CalculatorES172003437\obj\Debug\netstandard2.0\CalculatorES172003437.dll
+C:\Users\Jose\source\repos\CalculatorES172003437\CalculatorES172003437\CalculatorES172003437\obj\Debug\netstandard2.0\ref\CalculatorES172003437.dll
+C:\Users\Jose\source\repos\CalculatorES172003437\CalculatorES172003437\CalculatorES172003437\obj\Debug\netstandard2.0\CalculatorES172003437.pdb
+C:\Users\Jose\source\repos\CalculatorES172003437\CalculatorES172003437\CalculatorES172003437\obj\Debug\netstandard2.0\punto.xaml.g.cs
